@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-gbti-network-mcp-basic-test-badge.png)](https://mseep.ai/app/mcp-mirror-gbti-network-mcp-basic-test)
+
 # Super Secret MCP Server
 
 A Model Context Protocol (MCP) server implementation in pure Node.js that provides a fun tool to generate random US State and signature soup combinations.
